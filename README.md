@@ -17,10 +17,10 @@ O Bootcamp é constistuído de 5 (cinco) módulos, sendo eles:
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-161b22?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
 </p>
 
-1. **Introdução ao JavaScript**: instruções, tipos, valores, variáveis e comentários.
-2. **Comandos de bloco**: estruturas de decisão, estruturas de repetição, funções e manipulação de eventos.
-3. **JavaScript moderno (ES6+)**: array methods, rest/spread operator, template literals, array/object destructuring, default parameters, arrow functions, etc.
-4. **JavaScript assíncrono**: event loop, setTimeout, setInterval, requisições HTTP, promises e async/await.
+1. Introdução ao JavaScript: instruções, tipos, valores, variáveis e comentários.
+2. Comandos de bloco: estruturas de decisão, estruturas de repetição, funções e manipulação de eventos.
+3. JavaScript moderno (ES6+): array methods, rest/spread operator, template literals, array/object destructuring, default parameters, arrow functions, etc.
+4. JavaScript assíncrono: event loop, setTimeout, setInterval, requisições HTTP, promises e async/await.
 
 **Módulo 02 – React**
 
@@ -64,11 +64,13 @@ O Bootcamp é constistuído de 5 (cinco) módulos, sendo eles:
 
 **Módulo 05 – Desafio Final**
 
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-161b22?style=plastic&logo=react&logoColor=61DAFB" title="React" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-161b22?style=plastic&logo=angular&logoColor=bd002e" title="React" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-161b22?style=plastic&logo=vue.js" title="React" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-161b22?style=plastic&logo=npm" title="NPM" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-161b22?style=plastic&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" />
+</p>
 
 1. Aula interativa com uma demonstração da resolução do Desafio Final e resolução de dúvidas.
 
@@ -93,3 +95,16 @@ Como aplicação do conteúdo no fim do módulo, é desenvolvido um **desafio** 
     <li><a href="https://github.com/JefersonLucas/bootcamp-frontend/tree/main/desafio-01">Desafio do Módulo 01</a></li>
   </ul>
 </details>
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/bootcamp-frontend/blob/main/LICENSE) para obter detalhes.
+
+## Agradecimentos
+
+Meus sinceros agradecimentos:
+
+- A Deus.
+- Ao meus professores e monitores(as):
+  - [@rrgomide](https://github.com/rrgomide);
+- E a todos os meus colegas do Bootcamp de Desenvolvedor Front End turma 202A.

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="./css/materialize.min.css" />
+  <!-- Style for this app -->
+  <link rel="stylesheet" href="./css/styles.css" />
+  <!-- Compiled and minified JavaScript -->
+  <script src="./js/materialize.min.js"></script>
+  <title>Trabalho prático - Módulo 01</title>
+</head>
+
+<body>
+  <div class="container grey lighten-5">
+    <h1 class="center">Super calculadora</h1>
+
+    <div class="row">
+      <div class="input-field col s6">
+        <input autofocus id="inputA" type="text" value="3">
+        <label for="inputA" class="active">Primeiro número (A):</label>
+      </div>
+
+      <div class="input-field col s6">
+        <input id="inputB" type="text" value="5">
+        <label for="inputB" class="active">Segundo número (B):</label>
+      </div>
+    </div>
+
+    <h2 class="center">Cálculos</h2>
+
+    <div id="calculations"></div>
+  </div>
+
+  <script defer src="./js/script.js"></script>
+</body>
+
+</html>
