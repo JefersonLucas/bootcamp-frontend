@@ -66,4 +66,4 @@ function formatNumber(number) {
 
 ## Ambiente
 
-Veja aqui o a página do projeto implantado por @github-pages [ver implantação](https://jefersonlucas.github.io/trabalho-pratico-01/).
+Veja aqui o a página do projeto implantado por @github-pages [ver implantação](https://jefersonlucas.github.io/bootcamp-frontend/trabalho-pratico-01/).

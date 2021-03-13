@@ -98,7 +98,7 @@ Como aplicação do conteúdo no fim do módulo, é desenvolvido um **desafio** 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/bootcamp-frontend/blob/main/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/bootcamp-frontend/blob/main/LICENSE.md) para obter detalhes.
 
 ## Agradecimentos
 

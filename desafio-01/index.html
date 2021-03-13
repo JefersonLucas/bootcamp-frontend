@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="./css/materialize.min.css" />
+  <!-- Style for this app -->
+  <link rel="stylesheet" href="./css/styles.css" />
+  <!-- Compiled and minified JavaScript -->
+  <script src="./js/materialize.min.js"></script>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../favicon.ico" type="image/x-icon">
+  <title>Desafio - Módulo 01</title>
+</head>
+
+<body>
+
+  <div class="container grey lighten-5">
+
+    <h1 class="center">Search Dev's</h1>
+
+    <div class="row">
+      <div class="input-field col s12">
+        <input id="inputName" type="text" autofocus />
+        <label for="inputName" class="validate">Pesquisa por nome</label>
+      </div>
+    </div>
+
+    <!-- Options -->
+    <div class="row">
+
+      <!-- Checkbox -->
+      <div id="filterOptions" class="input-field col s10">
+        <!-- Aqui entram os checkboxes de forma dinâmirca -->
+        <div id="checkboxes"></div>
+      </div>
+
+      <!-- Radio Buttons -->
+      <div class="input-field col s2">
+
+        <div id="radioButtons">
+          <label class="option">
+            <input id="radioAnd" name="radioGroup" type="radio" />
+            <span>E</span>
+          </label>
+
+          <label class="option">
+            <input id="radioOr" name="radioGroup" type="radio" checked />
+            <span>OU</span>
+          </label>
+        </div>
+
+      </div>
+
+    </div> <!-- End Options -->
+
+  </div> <!-- End Container -->
+
+  <script defer src="./js/script.js"></script>
+</body>
+
+</html>
