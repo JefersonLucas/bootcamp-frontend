@@ -1,11 +1,13 @@
-h1 {
-  font-size: 2rem;
+h1,
+h2 {
   font-weight: bolder;
 }
-
+h1 {
+  font-size: 2rem;
+}
 h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 .container {
-  padding: 0.5rem;
+  border-radius: 10px;
 }
